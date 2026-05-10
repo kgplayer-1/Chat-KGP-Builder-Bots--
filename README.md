@@ -10,4 +10,8 @@
 
 ## التشغيل:
 pip install -r requirements.txt
+
 python app.py
+
+
+اذا لم يعمل الامر نزله كملف مضغوط 
